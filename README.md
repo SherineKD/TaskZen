@@ -22,24 +22,19 @@ Data Persistence: Task data is securely stored in a backend service, ensuring th
 
 Testing: Our application is thoroughly tested with unit and integration tests, ensuring its reliability.
 
+
 Installation
 Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/your-username/task-manager-app.git
+bash : git clone https://github.com/your-username/task-manager-app.git
 Change to the project directory:
-bash
-Copy code
-cd task-manager-app
-Install the dependencies:
-bash
-Copy code
-npm install
+bash  : cd task-manager-app
+Install the dependencies: 
+bash : npm install
 Start the development server:
-bash
-Copy code
-npm start
+bash : npm start
 Open your web browser and visit http://localhost:3000 to access the Task Manager App.
+
+
 Technologies Used
 React
 Firebase Authentication
@@ -49,11 +44,11 @@ Jest and React Testing Library (for testing)
 Contributing
 We welcome contributions from the community! If you'd like to contribute to this project, please review our Contribution Guidelines.
 
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Acknowledgments
 This project was inspired by the need for an efficient task management tool.
 Special thanks to the React and Firebase communities for their fantastic resources and support.
-Contact
-If you have any questions or feedback, feel free to reach out to us at davsherine@gmail.com.
