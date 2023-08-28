@@ -24,24 +24,36 @@ Testing: Our application is thoroughly tested with unit and integration tests, e
 
 
 Installation
+
 Clone the repository to your local machine:
 bash : git clone https://github.com/your-username/task-manager-app.git
+
 Change to the project directory:
 bash  : cd task-manager-app
+
 Install the dependencies: 
 bash : npm install
+
 Start the development server:
 bash : npm start
+
 Open your web browser and visit http://localhost:3000 to access the Task Manager App.
 
 
 Technologies Used
+
 React
-Firebase Authentication
+
+Firebase Authentication.
+
 Firebase Realtime Database (for data persistence)
+
 HTML5/CSS3
+
 Jest and React Testing Library (for testing)
+
 Contributing
+
 We welcome contributions from the community! If you'd like to contribute to this project, please review our Contribution Guidelines.
 
 
