@@ -56,4 +56,4 @@ Acknowledgments
 This project was inspired by the need for an efficient task management tool.
 Special thanks to the React and Firebase communities for their fantastic resources and support.
 Contact
-If you have any questions or feedback, feel free to reach out to us at your-email@example.com.
+If you have any questions or feedback, feel free to reach out to us at davsherine@gmail.com.
